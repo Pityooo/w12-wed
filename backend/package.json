@@ -1,0 +1,23 @@
+{
+  "name": "w12-wed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pityooo/w12-wed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pityooo/w12-wed/issues"
+  },
+  "homepage": "https://github.com/Pityooo/w12-wed#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

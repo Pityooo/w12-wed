@@ -1,0 +1,21 @@
+.swiper {
+    display: grid;
+    width: 100%;
+    height: 100vh;
+    background-color: #ded3c2;
+    text-align: center;
+}
+
+.swiper img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.swiper p {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    background-color: aliceblue;
+}
+
